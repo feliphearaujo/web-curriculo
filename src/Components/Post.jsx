@@ -19,7 +19,7 @@ export default function Post() {
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non error optio culpa iure maiores totam, praesentium exercitationem suscipit, sint quasi aspernatur magni velit, ipsum sequi molestiae aliquid nostrum accusantium vero?</p>
 
           <p><a>Link Repositórios</a></p>
-          <a>Último Projeto</a>
+          <p><a>Último Projeto</a></p>
         </div>
 
         <form action="">
