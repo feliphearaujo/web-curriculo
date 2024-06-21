@@ -1,4 +1,5 @@
 import styles from './post.module.css'
+import Comments from './Comments'
 
 export default function Post() {
   return (
@@ -25,6 +26,10 @@ export default function Post() {
         <form action="">
           <strong>Experiência profissional</strong>
         </form>
+
+        <div>
+          <Comments/>
+        </div>
 
       </article>
     </>
