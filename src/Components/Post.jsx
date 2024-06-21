@@ -11,7 +11,7 @@ export default function Post() {
             <img src="src\assets\avatar.png" alt="" />
             <div className={styles.authorInfo}>
               <strong>Feliphe Araújo dos Santos</strong>
-              <span>Desenvolvedor</span>
+              <span>Programador React</span>
             </div>
           </div>
         </header>
