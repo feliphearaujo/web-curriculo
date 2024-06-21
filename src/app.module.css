@@ -1,5 +1,10 @@
 .wrapper{
     display: grid;
-    /* Duas colunas */
+    /* Três colunas */
     grid-template-columns: 256px auto; 
+    max-width: 70rem;
+    margin: 0 auto;
+    margin-top: 20px;
+    gap: 2rem;
+    padding: 0 1rem;
 }
